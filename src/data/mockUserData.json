@@ -1,0 +1,119 @@
+{
+    "students": [
+      {
+        "studentNumber": "S12345678"
+      },
+      {
+        "studentNumber": "S23456789"
+      },
+      {
+        "studentNumber": "S34567890"
+      },
+      {
+        "studentNumber": "S45678901"
+      },
+      {
+        "studentNumber": "S56789012"
+      },
+      {
+        "studentNumber": "S67890123"
+      },
+      {
+        "studentNumber": "S78901234"
+      },
+      {
+        "studentNumber": "S89012345"
+      },
+      {
+        "studentNumber": "S90123456"
+      },
+      {
+        "studentNumber": "S01234567"
+      }
+    ],
+    "lecturers": [
+      {
+        "lecturerId": "L12345678"
+      },
+      {
+        "lecturerId": "L23456789"
+      },
+      {
+        "lecturerId": "L34567890"
+      },
+      {
+        "lecturerId": "L45678901"
+      },
+      {
+        "lecturerId": "L56789012"
+      },
+      {
+        "lecturerId": "L67890123"
+      },
+      {
+        "lecturerId": "L78901234"
+      },
+      {
+        "lecturerId": "L89012345"
+      },
+      {
+        "lecturerId": "L90123456"
+      },
+      {
+        "lecturerId": "L01234567"
+      }
+    ],
+    "admins": [
+      {
+        "adminCode": "A12345678"
+      },
+      {
+        "adminCode": "A23456789"
+      },
+      {
+        "adminCode": "A34567890"
+      },
+      {
+        "adminCode": "A45678901"
+      },
+      {
+        "adminCode": "A56789012"
+      },
+      {
+        "adminCode": "A67890123"
+      },
+      {
+        "adminCode": "A78901234"
+      },
+      {
+        "adminCode": "A89012345"
+      },
+      {
+        "adminCode": "A90123456"
+      },
+      {
+        "adminCode": "A01234567"
+      }
+    ],
+  
+  
+  
+    "passwords": [
+      "password1",
+      "password2",
+      "password3",
+      "password4",
+      "password5",
+      "password6",
+      "password7",
+      "password8",
+      "password9",
+      "password10",
+      "password11",
+      "password12",
+      "password13",
+      "password14",
+      "password15"
+    ]
+  }
+  

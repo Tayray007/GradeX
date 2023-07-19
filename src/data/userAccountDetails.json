@@ -1,0 +1,72 @@
+[
+  {
+    "id": "user1",
+    "name": "John Doe",
+    "email": "user1@example.com",
+    "password": "0751440004",
+    "role": "student"
+  },
+  {
+    "id": "user2",
+    "name": "Jane Smith",
+    "email": "user2@example.com",
+    "password": "password2",
+    "role": "student"
+  },
+  {
+    "id": "user3",
+    "name": "Michael Johnson",
+    "email": "user3@example.com",
+    "password": "password3",
+    "role": "student"
+  },
+  {
+    "id": "user4",
+    "name": "Emily Davis",
+    "email": "user4@example.com",
+    "password": "password4",
+    "role": "student"
+  },
+  {
+    "id": "user5",
+    "name": "David Wilson",
+    "email": "user5@example.com",
+    "password": "password5",
+    "role": "student"
+  },
+  {
+    "id": "lecturer1",
+    "name": "Professor Smith",
+    "email": "lecturer1@example.com",
+    "password": "password6",
+    "role": "lecturer"
+  },
+  {
+    "id": "lecturer2",
+    "name": "Dr. Johnson",
+    "email": "lecturer2@example.com",
+    "password": "password7",
+    "role": "lecturer"
+  },
+  {
+    "id": "lecturer3",
+    "name": "Professor Wilson",
+    "email": "lecturer3@example.com",
+    "password": "password8",
+    "role": "lecturer"
+  },
+  {
+    "id": "lecturer4",
+    "name": "Dr. Davis",
+    "email": "lecturer4@example.com",
+    "password": "password9",
+    "role": "lecturer"
+  },
+  {
+    "id": "lecturer5",
+    "name": "Professor Johnson",
+    "email": "lecturer5@example.com",
+    "password": "password10",
+    "role": "lecturer"
+  }
+]
